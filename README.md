@@ -22,7 +22,7 @@ Programma della giornata (previsto).
 ## 02-Mar-2022 - Uniamo i dati
 
 1. Merge degli indicatori e creazione dataset
-2. Analisi univariata: moda, media, mediana, varianza e deviazione standard, distribuzioni
+2. **Analisi univariata**: moda, media, mediana, varianza e deviazione standard, distribuzioni
 3. Visualizzazione delle distribuzioni con boxplots ed istogrammi
 
 ## 22-Mar-2022 - Analizziamo i dati
